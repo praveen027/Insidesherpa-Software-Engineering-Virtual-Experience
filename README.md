@@ -5,3 +5,5 @@ Fix the broken client datafeed script in the repository and run the server and c
 application to make web application output correctly. Modify the schema object as that will dictate how we’ll be able to configure the Perspective table
 view of our graph. Finally to configure our graph I modified and added more attributes to the element so that web application behave in expected
 manner.
+
+<h2> Task 1</h2>
